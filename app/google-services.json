@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "123478929451",
+    "firebase_url": "https://listtodo-14cc3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "listtodo-14cc3",
+    "storage_bucket": "listtodo-14cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123478929451:android:292e5ad4043658260aba6e",
+        "android_client_info": {
+          "package_name": "com.sto_opka91.todoapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXcm2L3gXg-CCKdFHIy1Md-_3EsZo_b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

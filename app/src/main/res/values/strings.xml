@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">ToDo</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="retype_your_password">Retype your password</string>
+    <string name="log_in">Log In</string>
+    <string name="registered_sign_in">Already registered? Sign in</string>
+    <string name="not_registered">Not Registered. Sign up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="passwords_have_differences">Passwords have differences</string>
+    <string name="you_have_empty_fields">You have empty fields</string>
+    <string name="type_your_task">type your task</string>
+    <string name="data">Date</string>
+    <string name="time">Time</string>
+    <string name="edit_data">Edit data and time</string>
+    <string name="edit_time">Edit time</string>
+    <string name="date_not_set">Date not set</string>
+    <string name="reminder_time">reminder time</string>
+</resources>
